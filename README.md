@@ -1,6 +1,8 @@
 # Plato: Text to Speech App
 Open Book Text to Speech Project - Computer Application
+
 ---
+
 ## Technologies and Libraries
 
 Plato is built with Python and PyQt6, outsourcing text to speech and speech to capabilities from Kokoro and Vosk.
@@ -12,19 +14,15 @@ Plato is built with Python and PyQt6, outsourcing text to speech and speech to c
 | [Kokoro](https://github.com/hexgrad/kokoro) | Text-to-speech synthesis for generating spoken audio from text. | [GitHub Repository](https://github.com/hexgrad/kokoro) |
 | [Vosk](https://alphacephei.com/vosk/) | Speech recognition for processing microphone input and interpreting voice commands. | [GitHub Repository](https://github.com/alphacep/vosk-api) |
 
-### Development Tools
-
-- **Git:** Version control.
-- **GitHub:** Source code hosting and project collaboration.
-- **Python virtual environment (`venv`):** Isolated project dependencies.
-
 ### References
 
 - Python Software Foundation. [Python Documentation](https://docs.python.org/3/).
 - Riverbank Computing. [PyQt6 Documentation](https://www.riverbankcomputing.com/static/Docs/PyQt6/).
 - Hexgrad. [Kokoro](https://github.com/hexgrad/kokoro).
 - Alpha Cephei. [Vosk Speech Recognition Toolkit](https://alphacephei.com/vosk/).
+
 ---
+
 ## Colaborators
 ### Ayemhenre Isikhuemhen
 **Data Engineer** Ally Financial | BrookSource Consultant | UNC-Charlotte Class of 2026<br>
@@ -33,5 +31,4 @@ Contacts: a.isikhuemhen@gmail.com | github.com/Taotlema
 ### Nandana Soni
 **Graphic Designer** | UNC-Charlotte Class of 2026 <br>
 Contacts: nandanas74e@gmail.com | github.com/Nandanas17
----
 
