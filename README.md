@@ -21,7 +21,7 @@ Plato is built with Python and PyQt6, outsourcing text to speech and speech to c
 
 ## Colaborators
 ### Ayemhenre Isikhuemhen
-**Data Engineer** Ally Financial | BrookSource Consultant | UNC-Charlotte Class of 2026<br>
+**Data Engineer** @ Ally Financial | BrookSource Consultant | UNC-Charlotte Class of 2026<br>
 Contacts: a.isikhuemhen@gmail.com | github.com/Taotlema
 
 ### Nandana Soni
