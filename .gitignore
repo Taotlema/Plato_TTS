@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build and packaging (PyInstaller, Nuitka)
+build/
+dist/
+*.build/
+*.dist/
+*.onefile-build/
+*.exe
+*.msi
+*.dmg
+*.pkg
+*.app/
+
+# Model and voice files
+app/assets/models/*
+!app/assets/models/*.txt
+!app/assets/models/*/
+app/assets/models/*/*
+!app/assets/models/*/*.txt
+*.onnx
+*.bin
+voices*.npz
+voices*.json
+
+# Generated audio
+*.wav
+*.mp3
+*.flac
+*.ogg
+output/
+
+# Qt
+*.qm
+.qmake.stash
+moc_*.cpp
+ui_*.h
+
+# App config and local data
+config.local.*
+settings.local.*
+*.log
+logs/
+
+# Secrets and signing
+.env
+.env.*
+*.p12
+*.pfx
+*.cer
+*.pem
+*.key
+*.mobileprovision
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
