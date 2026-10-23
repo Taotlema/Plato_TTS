@@ -1,8 +1,6 @@
 # Plato: Text to Speech App
 Open Book Text to Speech Project - Computer Application
 
----
-
 ## Technologies and Libraries
 
 Plato is built with Python and PyQt6, outsourcing text to speech and speech to capabilities from Kokoro and Vosk.
@@ -20,8 +18,6 @@ Plato is built with Python and PyQt6, outsourcing text to speech and speech to c
 - Riverbank Computing. [PyQt6 Documentation](https://www.riverbankcomputing.com/static/Docs/PyQt6/).
 - Hexgrad. [Kokoro](https://github.com/hexgrad/kokoro).
 - Alpha Cephei. [Vosk Speech Recognition Toolkit](https://alphacephei.com/vosk/).
-
----
 
 ## Colaborators
 ### Ayemhenre Isikhuemhen
